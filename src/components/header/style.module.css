@@ -1,0 +1,8 @@
+.header {
+    padding: 100px 0;
+    background-color: #e9ecef;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    border-radius: 20px;
+}

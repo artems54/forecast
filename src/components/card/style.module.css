@@ -1,0 +1,15 @@
+.card {
+    width: 200px;
+    height: 450px;
+    border-radius: 20px;
+    box-shadow: 0px 1px 6px 0px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.card_icon {
+    width: 70px;
+    height: 70px;
+}
